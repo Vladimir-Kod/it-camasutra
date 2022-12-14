@@ -1,4 +1,4 @@
-.js-calculator{
+.js-calculator {
     width: 400px;
     margin: 0 auto;
     text-align: center;
@@ -6,16 +6,16 @@
     border: solid 2px black;
     border-radius: 10%;
     padding: 15px;
-    
+
 }
 
-.js-calculator .operation-block button{
+.js-calculator .operation-block button {
     height: 30px;
     width: 30px;
     margin: 10px;
 }
 
-.js-calculator .inputs-block .input-block label{
+.js-calculator .inputs-block .input-block label {
     display: block;
 }
 
