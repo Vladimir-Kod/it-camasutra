@@ -1,0 +1,31 @@
+.news-content .section-news li {
+    padding: 10px;
+}
+
+.news-content .section-news h2 {
+    padding: 10px;
+    color: white;
+}
+
+.news-content .section-news li:hover a {
+    color: white;
+}
+
+.news-content .section-hot h2,
+.news-content .section-hot li:hover {
+    background-color: darkslateblue;
+}
+
+.news-content .section-hot .hot-footer {
+    color: darkslateblue;
+}
+
+.news-content .section-realty h2,
+.section-realty li:hover {
+    background-color: cadetblue;
+}
+
+.news-content .section-realty .realty-footer {
+    color: cadetblue;
+}
+
